@@ -22,17 +22,27 @@ Before starting to run this repo, you first need the base path where you have do
 ### 4. To run the majority and random class baselines, run:
 
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/2_Maj_And_Random/GetDDMajAndRandomBaseline.sh EMO_MTL_BASE_PATH`
+
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/2_Maj_And_Random/GetELEPMajAndRandomBaseline.sh EMO_MTL_BASE_PATH`
+
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/2_Maj_And_Random/GetELFRMajAndRandomBaseline.sh EMO_MTL_BASE_PATH`
+
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/2_Maj_And_Random/GetSE19MajAndRandomBaseline.sh EMO_MTL_BASE_PATH`
 
 ### 5. To run the XGBoost baselines for each dataset both with and without context, run:
 
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/1_Classical_CBOW/Run_XGBoost_CBOW_DD_Context.sh EMO_MTL_BASE_PATH`
+
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/1_Classical_CBOW/Run_XGBoost_CBOW_DD.sh EMO_MTL_BASE_PATH`
+
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/1_Classical_CBOW/Run_XGBoost_CBOW_ELEP_Context.sh EMO_MTL_BASE_PATH`
+
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/1_Classical_CBOW/Run_XGBoost_CBOW_ELEP.sh EMO_MTL_BASE_PATH`
+
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/1_Classical_CBOW/Run_XGBoost_CBOW_ELFR_Context.sh EMO_MTL_BASE_PATH`
+
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/1_Classical_CBOW/Run_XGBoost_CBOW_ELFR.sh EMO_MTL_BASE_PATH`
+
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/1_Classical_CBOW/Run_XGBoost_CBOW_SE19_Context.sh EMO_MTL_BASE_PATH`
+
 `EMO_MTL_BASE_PATH/EmoMTLExperiments/2_Baselines/1_Classical_CBOW/Run_XGBoost_CBOW_SE19.sh EMO_MTL_BASE_PATH`
