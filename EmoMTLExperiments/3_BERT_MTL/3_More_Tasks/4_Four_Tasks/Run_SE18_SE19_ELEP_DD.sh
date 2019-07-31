@@ -10,12 +10,12 @@
 
 #$ -l mem=20G
 
-module unload compilers mpi
-module load compilers/gnu/4.9.2
-module load python3/recommended
-module load cuda/9.0.176-patch4/gnu-4.9.2
-module load cudnn/7.4.2.24/cuda-9.0
-module load tensorflow/1.12.0/gpu
+
+
+
+
+
+
 
 pip install torch torchvision tqdm pytorch_pretrained_bert tensorboardX --user
 pip install -e $1/EmoMTLExperiments/metal --user
