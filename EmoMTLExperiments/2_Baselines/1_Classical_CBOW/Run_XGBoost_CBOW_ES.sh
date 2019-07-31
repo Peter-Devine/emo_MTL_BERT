@@ -10,9 +10,9 @@
 
 #$ -l mem=20G
 
-module unload compilers mpi
-module load compilers/gnu/4.9.2
-module load python3/recommended
+
+
+
 
 pip install spacy pandas numpy matplotlib glob spacy nltk re sklearn --user
 pip install xgboost --user
