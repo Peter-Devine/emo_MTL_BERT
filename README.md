@@ -3,7 +3,7 @@ Emotional MTL with BERT experiments
 
 ## How to run this repo
 
-Before starting to run this repo, you first need the base path where you have downloaded this repo. For example, if this repo is downloaded in C:\Users\[NAME]\Downloads\emo_MTL_BERT , or in /home/[NAME]/Downloads/emo_MTL_BERT, then C:\Users\[NAME]\Downloads\emo_MTL_BERT or /home/[NAME]/Downloads/emo_MTL_BERT would be your base path, which we will denote as $EMO_MTL_BASE_PATH. Please note that these paths must include the emo_MTL_BERT folder name too in their path. This base path will be used as an argument when each script is run.
+Before starting to run this repo, you first need the base path where you have downloaded this repo. For example, if this repo is downloaded in C:\Users\[NAME]\Downloads\emo_MTL_BERT , or in /home/[NAME]/Downloads/emo_MTL_BERT, then C:\Users\[NAME]\Downloads\emo_MTL_BERT or /home/[NAME]/Downloads/emo_MTL_BERT would be your base path, which we will denote as $EMO_MTL_BASE_PATH. Please note that these paths must include the emo_MTL_BERT folder too in this path. This base path will be used as an argument when each script is run.
 
 ### 1. To prepare the repo by downloading the modified version of Snorkel's MeTaL package, run:
 
