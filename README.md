@@ -168,6 +168,6 @@ Before starting to run this repo, you first need the base path where you have do
 `$EMO_MTL_BASE_PATH/EmoMTLExperiments/3_BERT_MTL/2_Zero_Shot_Tests/ELEP_ELFR/Run_ELEP_ELFR__ELEP_Eval_ON_DD.sh $EMO_MTL_BASE_PATH`
 `$EMO_MTL_BASE_PATH/EmoMTLExperiments/3_BERT_MTL/2_Zero_Shot_Tests/DD/Run_Zero_Shot_DD__DD_Eval.sh $EMO_MTL_BASE_PATH`
 
-# Order of opertaions
+# Order of operations
 
 To run the entire set of experiments, run the above scripts in order from 1 -> 15.
