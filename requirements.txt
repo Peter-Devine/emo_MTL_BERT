@@ -21,7 +21,7 @@ chardet==3.0.4
 Click==7.0
 clint==0.5.1
 colorlog==4.0.2
-cryptography==2.7
+cryptography==39.0.1
 cutadapt==2.4
 cvxopt==1.2.3
 cycler==0.10.0
